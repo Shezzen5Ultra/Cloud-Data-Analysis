@@ -1,0 +1,22 @@
+Parameter,Value,,,,
+GTID,workspace_gtadmin,,,,
+1_Mean Absolute Error,,,,,1773.61396
+1_Root Mean Squared Error,,,,,2461.695749
+1_Relative Absolute Error,,,,,0.389362
+1_Relative Squared Error,,,,,0.131796
+1_Coefficient of Determination,,,,,0.868204
+2_Mean Absolute Error,,,,,
+2_Root Mean Squared Error,,,,,
+2_Relative Absolute Error,,,,,
+2_Relative Squared Error,,,,,
+2_Coefficient of Determination,,,,,
+3_Root Mean Squared Error (RMSE) for 1st fold,,,,,
+3_Root Mean Squared Error (RMSE) for 2nd fold,,,,,
+3_Root Mean Squared Error (RMSE) for 3rd fold,,,,,
+3_Root Mean Squared Error (RMSE) for 4th fold,,,,,
+3_Root Mean Squared Error (RMSE) for 5th fold,,,,,
+3_Coefficient of Determination for 1st fold,,,,,
+3_Coefficient of Determination for 2nd fold,,,,,
+3_Coefficient of Determination for 3rd fold,,,,,
+3_Coefficient of Determination for 4th fold,,,,,
+3_Coefficient of Determination for 5th fold,,,,,
